@@ -1,0 +1,6 @@
+@DSOperationEFCore_HostAddress = http://localhost:5098
+
+GET {{DSOperationEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
