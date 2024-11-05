@@ -1,0 +1,148 @@
+[
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetCurrencyByIdAsync",
+    "RelativePath": "api/Currency/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetCurrencyByParamAsync",
+    "RelativePath": "api/Currency/{name}/{desc}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "desc",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetAllCurrencTwo",
+    "RelativePath": "api/Currency/GetAllCurrencTwo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetAllCurrencyOne",
+    "RelativePath": "api/Currency/GetAllCurrencyOne",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetAllCurrencyThree",
+    "RelativePath": "api/Currency/GetAllCurrencyThree",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetCurrencyByParamQueryStringAsync",
+    "RelativePath": "api/Currency/GetCurrencyByParamQueryStringAsync {name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "desc",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetCurrencyByTitleAsync",
+    "RelativePath": "api/Currency/GetCurrencyByTitleAsync {name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetCurrencyDuplicateAsync",
+    "RelativePath": "api/Currency/GetCurrencyDuplicateAsync{crname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.CurrencyController",
+    "Method": "GetSelectedRecordAsync",
+    "RelativePath": "api/Currency/GetSelectedRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DSOperationEFCore.Controllers.LanguagesController",
+    "Method": "GetAllLanguages",
+    "RelativePath": "api/Languages/GetAllLanguages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

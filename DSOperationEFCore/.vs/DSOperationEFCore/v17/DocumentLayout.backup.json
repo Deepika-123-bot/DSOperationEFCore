@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Work\\WorkDotNetCore\\src\\DSOperationEFCore\\DSOperationEFCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCC719D-826B-43CD-A54F-F3783050BEDA}|DSOperationEFCore\\DSOperationEFCore.csproj|d:\\work\\workdotnetcore\\src\\dsoperationefcore\\dsoperationefcore\\dsoperationefcore\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCC719D-826B-43CD-A54F-F3783050BEDA}|DSOperationEFCore\\DSOperationEFCore.csproj|solutionrelative:dsoperationefcore\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCC719D-826B-43CD-A54F-F3783050BEDA}|DSOperationEFCore\\DSOperationEFCore.csproj|d:\\work\\workdotnetcore\\src\\dsoperationefcore\\dsoperationefcore\\dsoperationefcore\\dsoperationefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFCC719D-826B-43CD-A54F-F3783050BEDA}|DSOperationEFCore\\DSOperationEFCore.csproj|solutionrelative:dsoperationefcore\\dsoperationefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DSOperationEFCore.csproj",
+              "DocumentMoniker": "D:\\Work\\WorkDotNetCore\\src\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore.csproj",
+              "RelativeDocumentMoniker": "DSOperationEFCore\\DSOperationEFCore.csproj",
+              "ToolTip": "D:\\Work\\WorkDotNetCore\\src\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore.csproj",
+              "RelativeToolTip": "DSOperationEFCore\\DSOperationEFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T09:52:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\Work\\WorkDotNetCore\\src\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DSOperationEFCore\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\Work\\WorkDotNetCore\\src\\DSOperationEFCore\\DSOperationEFCore\\DSOperationEFCore\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DSOperationEFCore\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:48:19.806Z",
+              "EditorCaption": ""
             }
           ]
         }
